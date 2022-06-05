@@ -12,3 +12,4 @@ The command will install all the packages that are required for this script.
 4.Finally execute this command in the terminal to start the script: scrapy crawl devices
 It may take some time but after the scraping is done you will see a 'devices.db' file inside the project folder with all the scraped data in it.
 
+If you want to understand more about the flow of the script check the code.I left some comments that explain some of the functionality.
